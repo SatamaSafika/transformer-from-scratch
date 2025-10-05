@@ -32,4 +32,4 @@ python main.py
 ## Output Contoh
 
 Program akan menampilkan tensor acak (tokens), bentuk tensor hasil perhitungan (logits, distribusi probabilitas), dan debug dari attention. Contoh:
-
+<img width="1968" height="414" alt="Image" src="https://github.com/user-attachments/assets/87ca2ad6-e970-48a3-bb7c-b9b05fb098ed" />
